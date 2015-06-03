@@ -34,3 +34,7 @@ Don't forget to set publickey/privatekey by replacing your_public_key/your_priva
 ## Other Documentation / Tutorials
 	
 * [Google reCAPTCHA Product Reference](https://developers.google.com/recaptcha/) 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jeromechan/recaptchaction/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
